@@ -10,11 +10,11 @@ import moment from 'moment-timezone';
 global.botnumber = "*『🔥┇𝙹𝙸𝙽-𝙱𝙾𝚃』*"
 global.confirmCode = ""
 
-global.owner = [['249112653227', '𝙹,𝙸,𝙽, ❦︎', true],
+global.owner = [['994407726748', '𝙹,𝙸,𝙽, ❦︎', true],
 ];
 
 global.suittag = ['249112653227'];
-global.prems = ['994407726748'];
+global.prems = ['249112653227'];
 
 global.packname = '☾︎ 𝙅𝙄𝙉𝘽𝙊𝙏-𝙈𝘿 ☽︎';
 global.author = '✩𝙹𝙸𝙽-𝙱𝙾𝚃☆';
